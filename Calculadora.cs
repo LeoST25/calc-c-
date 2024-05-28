@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Calculadora
+namespace Calc_c_
 {
     class Calculadora
     {
